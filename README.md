@@ -1,5 +1,7 @@
 # RetosModulo4
 
-- Retos no evaluables día 1
+- Retos día 1 completados
 
-- Retos día 2
+- Retos día 2 completados
+
+- Retos dia 3 completados
